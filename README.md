@@ -19,6 +19,7 @@ rpms
     * fedora16 x86_64
 * source
     * http://redis.io/download
+
 ## td-agent
 * version
     * 0.10.6
