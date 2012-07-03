@@ -1,24 +1,29 @@
 rpms
 ====
 
-* refernce
+* Reference
     * [nginxとredisのrpmを作ってみた(fedora16 x86_64用)](http://spring-mt.tumblr.com/post/23156957111/nginx-redis-rpm-fedora16-x86-64)
+    * [redisのrpmを作ってみた(centos 6.2編)](http://spring-mt.tumblr.com/post/26409034144/redis-rpm-centos-6-2)
 
 ## nginx
 * version
     * 1.2.0
-* OS
-    * fedora16 x86_64
-* source
-    * http://nginx.org/en/download.html
+    * OS
+        * fedora16 x86_64
+    * source
+        * http://nginx.org/en/download.html
 
 ## redis
 * version
     * 2.4.13
-* OS
-    * fedora16 x86_64
-* source
-    * http://redis.io/download
+    * OS
+        * fedora16 x86_64
+    * source
+        * http://redis.io/download
+* version
+    * 2.4.15
+    * OS
+        * centos6.2 x86_64
 
 ## td-agent
 * version
