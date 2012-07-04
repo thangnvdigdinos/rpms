@@ -5,6 +5,14 @@ rpms
     * [nginxとredisのrpmを作ってみた(fedora16 x86_64用)](http://spring-mt.tumblr.com/post/23156957111/nginx-redis-rpm-fedora16-x86-64)
     * [redisのrpmを作ってみた(centos 6.2編)](http://spring-mt.tumblr.com/post/26409034144/redis-rpm-centos-6-2)
 
+## libyaml
+* version
+    * 0.1.3
+    * OS
+        * centos6.2 x86_64
+    * source
+        * http://ftp.jaist.ac.jp/pub/Linux/Fedora/epel/6/SRPMS/
+
 ## nginx
 * version
     * 1.2.0
