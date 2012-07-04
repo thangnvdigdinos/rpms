@@ -13,6 +13,14 @@ rpms
     * source
         * http://ftp.jaist.ac.jp/pub/Linux/Fedora/epel/6/SRPMS/
 
+## MySQL
+* version
+    * 5.5.24
+    * OS
+        * centos6.2 x86_64
+    * source
+        * http://dev.mysql.com/downloads/mysql/#downloads
+
 ## nginx
 * version
     * 1.2.0
