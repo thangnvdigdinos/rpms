@@ -5,6 +5,15 @@ rpms
     * [nginxとredisのrpmを作ってみた(fedora16 x86_64用)](http://spring-mt.tumblr.com/post/23156957111/nginx-redis-rpm-fedora16-x86-64)
     * [redisのrpmを作ってみた(centos 6.2編)](http://spring-mt.tumblr.com/post/26409034144/redis-rpm-centos-6-2)
 
+## daemontools
+* version
+    * 0.76
+    * OS
+        * centos6.2 x86_64
+    * source
+        * http://www.qmail.org/rpms/SRPMS/daemontools-0.76-112memphis.src.rpm
+        * (same as http://djbware.csi.hu/SRPMS/daemontools-0.76-112memphis.src.rpm)
+
 ## libyaml
 * version
     * 0.1.3
